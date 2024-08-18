@@ -1,4 +1,4 @@
-<p align="center"> <img src="./assets/img/BEM VINDO!.gif" alt="Oi, eu sou  Renan" heigth= "212" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> </p>
+<img src="./assets/img/BEM VINDO!.gif" alt="Oi, eu sou  Renan" heigth= "212" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 
 <div>
   <a href="https://github.com/renanlucasbrk2">
