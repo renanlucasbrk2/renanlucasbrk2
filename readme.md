@@ -1,9 +1,6 @@
-<!-- <img src="./assets/img/bemVindo.gif" alt="Oi, eu sou  Renan" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  -->
-
 <p align="center">
   <img src="./assets/img/bemVindo.gif" width= "100%" alt="Oi">
 </p>
-
 
 <div>
   <a href="https://github.com/renanlucasbrk2">
