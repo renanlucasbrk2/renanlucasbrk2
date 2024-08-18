@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/renanlucasbrk2">
-  <img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlucasbrk2&theme=dracula">
+  <img heigth="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlucasbrk2&theme=dracula">
 </div>
 
 #### Linguagens:
